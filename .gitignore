@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Output model files
+models/
+*.h5
+*.pickle
+*.pkl
+
+# Dataset (raw & augmented)
+data/
+*.jpg
+*.png
+
+# Output plot
+training_plot.png
+
+# OS metadata
+.DS_Store
+Thumbs.db
